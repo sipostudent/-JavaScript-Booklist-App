@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="img/readagain.png" width="600">
+  <img src="img/booklist.png" width="600">
   <br>
     <br>
   JavaScript - Book List App
