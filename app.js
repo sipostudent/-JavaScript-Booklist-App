@@ -1,3 +1,7 @@
+/**
+ * Code: Starts Here
+ */
+
 // Book Class: Represents a Book
 class Book {
   constructor(title, author, isbn) {
@@ -132,3 +136,7 @@ document.querySelector('#book-list').addEventListener('click', (e) => {
   // Show success message
   UI.showAlert('Book Removed', 'success');
 });
+
+/**
+ * Code: Ends Here
+ */
