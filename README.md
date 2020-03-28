@@ -9,4 +9,4 @@
 
 <h3 align="center">Self-Taught Programming</h3>
 
-<h4 align="center">A Book-List Using Using Classes, and Local Storage</h4>
+<h4 align="center">A Book List Using Using Classes, and Local Storage</h4>
